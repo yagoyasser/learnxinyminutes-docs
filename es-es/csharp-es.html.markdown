@@ -562,7 +562,7 @@ namespace Learning
         {
             string result = "PennyFarthing bicycle ";
             result += base.ToString(); // Llamar a la versión base del método
-            return reuslt;
+            return result;
         }
     }
 
